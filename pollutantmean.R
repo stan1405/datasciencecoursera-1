@@ -11,3 +11,4 @@ pollutantmean <- function(directory, pollutant, id = 1:332) {
 
 
 #use this data file in workspace https://d396qusza40orc.cloudfront.net/rprog%2Fdata%2Fspecdata.zip
+
